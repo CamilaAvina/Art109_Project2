@@ -1,3 +1,7 @@
 body{
   background-color: #EBDEF0;
 }
+.paragraph{
+  font-size: 18px;
+  font-family: 'Irish Grover', cursive;
+}
